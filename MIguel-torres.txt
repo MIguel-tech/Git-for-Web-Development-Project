@@ -15,7 +15,7 @@ The title
 7. What is an id? 
 identifier for an html tag
 8. What elements can I add an id to? 
-
+HTML Tags
 9. How many times can I use the same id on a page? 
 
 10. What is a class? 
